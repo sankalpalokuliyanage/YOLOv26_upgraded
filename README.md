@@ -16,7 +16,7 @@ To use this repository, follow the execution order below:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/sankalpalokuliyanage/YOLOv26_upgraded.git](https://github.com/sankalpalokuliyanage/YOLOv26_upgraded.git)
+git clone https://github.com/sankalpalokuliyanage/YOLOv26_upgraded.git
 cd YOLOv26_upgraded
 ```
 
