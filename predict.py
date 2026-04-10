@@ -22,7 +22,7 @@ class YoloPredictorGUI:
 
     def setup_ui(self):
         # Header Label
-        header = tk.Label(self.root, text="YOLOv8 Object Recognition", 
+        header = tk.Label(self.root, text="YOLOv26 Object Recognition", 
                           font=("Segoe UI", 18, "bold"), bg="#2f3640", fg="white", pady=15)
         header.pack(fill="x")
 
